@@ -190,7 +190,7 @@ String dbPass = "";
 String backupPath = "D:\\Database Backup & Restore\\oes2.sql";
 
 String[] command = new String[] {
-    mysqlBinPath,
+    mysqlBinPath,   
     "--user=" + dbUser,
     "--password=" + dbPass,
     dbName,
