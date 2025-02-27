@@ -67,7 +67,7 @@ Feel free to fork this repository and contribute. If you encounter any issues, c
 This project is open-source and available under the **MIT License**.
 
 ---
-📌 **Author:** Your Name  
+📌 **Author:** Siddhant Kumar
 📌 **GitHub Repository:** https://github.com/siddhant-fast-codeing/Exam-Management.git
 
 📌 **Contact:** siddhant8796@gmail.com
