@@ -218,7 +218,7 @@ String mysqlBinPath = "C:\\xampp\\mysql\\bin\\mysqldump.exe";
 String dbName = "oes2";
 String dbUser = "root";
 String dbPass = "";
-String backupPath = "D:\\SEM 5th Database Backup & Restore\\oes2.sql";
+String backupPath = "D:\\Database Backup & Restore\\oes2.sql";
 
 
 String command = mysqlBinPath + " --user=" + dbUser + " --password=" + dbPass + " " + dbName + " > " + backupPath;
@@ -262,7 +262,7 @@ String mysqlBinPath = "C:\\xampp\\mysql\\bin\\mysql.exe";
 String dbName = "oes2";
 String dbUser = "root";
 String dbPass = "";
-String backupPath = "D:\\SEM 5th Database Backup & Restore\\oes2.sql";
+String backupPath = "D:\\Database Backup & Restore\\oes2.sql";
 
 String[] command = new String[] {
     mysqlBinPath,
