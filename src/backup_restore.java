@@ -187,7 +187,7 @@ new Admin_Management().setVisible(true);        // TODO add your handling code h
 String dbName = "oes2";
 String dbUser = "root";
 String dbPass = "";
-String backupPath = "D:\\SEM 5th Database Backup & Restore\\oes2.sql";
+String backupPath = "D:\\Database Backup & Restore\\oes2.sql";
 
 String[] command = new String[] {
     mysqlBinPath,
